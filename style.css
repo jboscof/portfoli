@@ -18,6 +18,10 @@ h1{
 h2{
     font-size: 2.4rem;
 }
+.card p{
+    font-size: 1.1rem;
+    padding: 0.5rem;
+}
 .text-underline {
   border-bottom: 1.5px solid #6984A9;
   padding-bottom: 2px;
@@ -43,9 +47,9 @@ h2{
 }
 @media(max-width:720px){
     h1{
-        font-size: 1.4rem;
+        font-size: 1.5rem;
     }
     h2{
-        font-size: 1.1rem;
+        font-size: 1.3rem;
     }
 }
